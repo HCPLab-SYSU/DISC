@@ -38,7 +38,7 @@ If you find DISC useful in your research, please consider citing:
 	}
 
 
-If you have any question for this code，contact us with tianshuichen@gmail.com or liulingbo918@gmail.com .
+If you have any question for this code，contact us with tianshuichen@gmail.com or liulingbo918@gmail.com.
 
 
 
