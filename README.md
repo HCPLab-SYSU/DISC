@@ -33,7 +33,11 @@ If you find DISC useful in your research, please consider citing:
 	@article{chen2015disc,
 	  title={DISC: Deep Image Saliency Computing via Progressive Representation Learning},
 	  author={Chen, Tianshui and Lin, Liang and Liu, Lingbo and Luo, Xiaonan and Li, Xuelong},
-	  year={2015},
+	  journal={IEEE transactions on neural networks and learning systems},
+	  volume={27},
+	  number={6},
+	  pages={1135--1149},
+	  year={2016},
 	  publisher={IEEE}
 	}
 
